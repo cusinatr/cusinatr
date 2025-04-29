@@ -8,10 +8,10 @@ I am a physicist and computer scientist passionate about Neuroscience and Data S
 
 ##
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cusinatr&theme=dracula&show_icons=true&hide=contribs,issues&rank_icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cusinatr&theme=dracula&show_icons=true&hide=contribs,issues&rank_icon=percentile&card_width=350" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cusinatr&theme=dracula&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cusinatr&theme=dracula&layout=compact&langs_count=8&card_width=300" />
 </a>
 
 <!--
