@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a physicist and computer scientist passionate about Neuroscience and Data Science. 
+I am a physicist and computer scientist passionate about Neuroscience and Data Science. You can visit my website here: https://cusinatr.github.io/
 
 - I’m currently pursuing my PhD in Cognitive Computational Neuroscience at the University of Bern, Switzerland. My work focuses on characterizing brain functions (e.g., recognizing a song) from neural activity recordings obtained in epilepsy patients.
 
